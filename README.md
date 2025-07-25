@@ -1,4 +1,4 @@
-# 🌻 POLLEN
+# 🌻 ConvoAAVE Dataset from Machina Mundi's Project POLLEN
 
 ## Empowering Black communities to shape how their language is represented in AI
 
