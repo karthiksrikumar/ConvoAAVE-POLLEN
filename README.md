@@ -13,11 +13,14 @@ AI language models are trained on text that systematically excludes, misrepresen
 - **Cultural appropriation** when AI systems use AAVE without context or respect
 - **Exclusion** from the benefits of language technology advancement
 
-**This isn't just a technical problem—it's a justice issue.**
+**This isn't just a technical problemit's a justice issue.**
+
+<img width="509" height="137" alt="image" src="https://github.com/user-attachments/assets/ee6c520d-17c3-4790-afbe-243b31b0fb3e" />
+This LLM connects AAVE with stereotypes such as basketball, rap, and certain clothes, which is clearly steoretyping and marginalizing many people using AAVE when using LLMs.
 
 ### 🌱 Our Solution
 
-POLLEN is building the first comprehensive, community-centered dataset of authentic AAVE to train more equitable language models. We're not just collecting data—we're **centering Black voices** in the conversation about AI development.
+Machina Mundi is building the first comprehensive,  community-centered dataset of authentic Conversational AAVE to train more equitable language models. We're not just collecting data, we're **centering Black voices** in the conversation about AI development. We focused on collaboration with the community, to ethicallt source all of our data, and remediate biases.
 
 #### What makes POLLEN different:
 - **Community-led**: Built by and for Black communities
@@ -30,13 +33,14 @@ POLLEN is building the first comprehensive, community-centered dataset of authen
 
 Our growing corpus includes:
 ```
-📝 500+ carefully curated AAVE sentences
-🗣️  Conversational snippets from community platforms
-📱 Social media expressions (ethically sourced)
-🏠 Generational language patterns
+1. 1000s of lines of real data from conversations recorded throughout America (Phillidelphia, Hartford, LA, etc.)
+2.  Conversational snippets from community platforms
+Social media expressions (ethically sourced)
+ Generational language patterns
+Work 
 ```
 
-*Sample from our dataset:*
+*Sample from our dataset of real conversations:*
 > "She been had that job since May"  
 > "Why y'all ain't tell me the party got moved?"  
 > "My granny say if your palm itch money coming soon"
@@ -90,7 +94,7 @@ python model/eval/bias_detection.py
 
 ### 🤝 Community Impact
 
-> *"When our children ask Siri a question, they deserve to be understood. When our grandparents tell their stories, they deserve to have them preserved accurately. This is about dignity."*
+> *"When our children ask Siri a question, they deserve to be understood. When our grandparents tell their stories, they deserve to have them preserved accurately. This is about dignity."* - Hartford Community Member
 
 **Real-world applications:**
 - More inclusive voice assistants
@@ -132,7 +136,7 @@ We prioritize:
 - Help expand to other marginalized dialects
 
 #### For Developers:
-- Integrate POLLEN into your language models
+- Integrate ConvoAAVE by Project POLLEN into your language models
 - Build applications that serve our communities
 - Contribute to our open-source tools
 
@@ -141,18 +145,6 @@ We prioritize:
 - Participate in validation processes  
 - Help us ensure authenticity and respect
 
-### 📞 Connect With Us
-
-- **Email**: hello@projectpollen.org
-- **Twitter**: @ProjectPollen
-- **Discord**: [Community Server]
-- **Website**: projectpollen.org
-
-### 🏆 Recognition
-
-*Winner, AI for Social Good Challenge 2024*  
-*Featured in Stanford HAI Human-Centered AI Symposium*  
-*Supported by Google AI for Everyone Initiative*
 
 ### 📄 License
 
@@ -163,22 +155,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### 🙏 Acknowledgments
 
 Deep gratitude to:
-- The linguistic scholars who laid the foundation for AAVE research
+- The linguistic scholars who laid the foundation for AAVE research at Stanford University
 - Community members who trusted us with their words
 - Grandmothers who preserved our language through generations
 - Young people who continue to innovate and create
 
-### 💡 Citation
 
-If you use POLLEN in your research, please cite:
-```bibtex
-@dataset{pollen2024,
-  title={POLLEN: A Community-Centered Dataset for African American Vernacular English},
-  author={[Your Name] and Contributors},
-  year={2024},
-  url={https://github.com/yourusername/pollen}
-}
-```
 
 ---
 
