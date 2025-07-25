@@ -17,7 +17,9 @@ AI language models are trained on text that systematically excludes, misrepresen
 
 <img width="509" height="137" alt="image" src="https://github.com/user-attachments/assets/ee6c520d-17c3-4790-afbe-243b31b0fb3e" />
 This LLM connects AAVE with stereotypes such as basketball, rap, and certain clothes, which is clearly steoretyping and marginalizing many people using AAVE when using LLMs.
+
 ### The Novel Community Methods we took
+
 With the Goal of reducing AI bias against AAVE speakers, and to Create community ownership of AI training data, we did the following: 
 
 Historical Black churches and community centers, Black cultural organizations, and museums met and partnered with our team to collect conversations. 
