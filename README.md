@@ -17,17 +17,22 @@ AI language models are trained on text that systematically excludes, misrepresen
 
 <img width="509" height="137" alt="image" src="https://github.com/user-attachments/assets/ee6c520d-17c3-4790-afbe-243b31b0fb3e" />
 This LLM connects AAVE with stereotypes such as basketball, rap, and certain clothes, which is clearly steoretyping and marginalizing many people using AAVE when using LLMs.
+### The Novel Community Methods we took
+With the Goal of reducing AI bias against AAVE speakers, and to Create community ownership of AI training data, we did the following: 
+
+Historical Black churches and community centers, Black cultural organizations, and museums met and partnered with our team to collect conversations. 
+Plans to work with Historically Black Colleges and Universities in 2026 have been set up. We attended many schools and garnered data.
 
 ### 🌱 Our Solution
 
-Machina Mundi is building the first comprehensive,  community-centered dataset of authentic Conversational AAVE to train more equitable language models. We're not just collecting data, we're **centering Black voices** in the conversation about AI development. We focused on collaboration with the community, to ethicallt source all of our data, and remediate biases.
+Machina Mundi is building the first comprehensive,  community-centered LLM/AI dataset of authentic Conversational AAVE to train more equitable language models. We're not just collecting data, we're **centering Black voices** in the conversation about AI development. We focused on collaboration with the community, to ethically source all of our data, and remediate biases.
 
 #### What makes POLLEN different:
 - **Community-led**: Built by and for Black communities
 - **Authentic**: Real conversations, not caricatures
-- **Respectful**: Proper attribution and community ownership
+- **Respectful**: Proper attribution and community ownership, with a wide range of topics
 - **Comprehensive**: Covering linguistic diversity within AAVE
-- **Open**: Transparent methodology and ethical guidelines
+- **Open**: Transparent methodology and ethical guidelines have been followed
 
 ### 📊 Current Dataset
 
